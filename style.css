@@ -1,0 +1,25 @@
+* {
+    background-color: firebrick;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    text-align: center;
+}
+
+.header .title {
+    font-size: xx-large;
+}
+
+.header .recipe {
+    font-size: x-large;
+}
+
+.center {
+    text-align: center;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
